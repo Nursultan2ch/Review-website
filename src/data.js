@@ -4,8 +4,7 @@ const reviews = [
         name: 'Azret Kenzhaliev',
         job: 'web developer',
         image:
-        'https://media-exp1.licdn.com/dms/image/C5603AQFIafmEccGHeA/profile-displayphoto-shrink_200_200/0/1624470719858?e=2147483647&v=beta&t=ZPFh-f_qVJCMG-iOGV_m23BNL1PnRJ521jrl4HbtdZ4',
-        text:
+        "https://avatars.githubusercontent.com/u/7948741?v=4",
         "Hello! I'm Azret, CS student @ KAIST, Technical Assessment Developer @ CodeSignal, ex-SWE Intern @ Palantir and Yelp, avid reader, skier (10 great years), and one of the many people who want to make this world a better place. "
     },
     {
