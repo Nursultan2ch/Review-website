@@ -5,6 +5,7 @@ const reviews = [
         job: 'web developer',
         image:
         "https://avatars.githubusercontent.com/u/7948741?v=4",
+        text:
         "Hello! I'm Azret, CS student @ KAIST, Technical Assessment Developer @ CodeSignal, ex-SWE Intern @ Palantir and Yelp, avid reader, skier (10 great years), and one of the many people who want to make this world a better place. "
     },
     {
